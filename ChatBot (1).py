@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("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")
 
 
 def main():
